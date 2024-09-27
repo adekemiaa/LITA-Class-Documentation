@@ -7,6 +7,7 @@
 
 ### Data Sources
 
+---
 
 ### Tools Used
 - Microsoft Ecxel [Download Here](https://www.microsoft.com)
@@ -16,3 +17,27 @@
      
 - SQL - Structured Query Language for Quering of DATA
 - Github for Portfolio Building
+
+### Data Cleaning and Preparastion
+
+
+
+
+
+### Exploratory Data Analysis
+
+
+
+
+
+### Data Aanlysis
+
+
+
+
+
+
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
